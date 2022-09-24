@@ -3,6 +3,23 @@ header {
     font-family: Arial, Helvetica, sans-serif
 }
 
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    text-align: center;
+    color: #545454;
+}
+
+h1 {
+    color: #1F9440;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 48px;
+    text-align: center;
+}
+
 input {
     display: block;
     width: 100%;
@@ -13,6 +30,16 @@ input {
     color: #202020;
     font-size: 20px;
     margin-bottom: 12px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #000000;
+    font-weight: 300;
+    line-height: 27px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 button {
