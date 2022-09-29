@@ -1,33 +1,32 @@
-body{
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
     text-align: center;
-    background-color: #fafafa;
-}
-
-header{
-    font-family: Arial;
-    position: absolute;
-    width: 200px;
-    height: 150px;
-    left: 87px;
-    top: 18px;
-}
-
-div{
-    font-family: Arial;
-    position: absolute;
-    width: 200px;
-    height: 150px;
-    left: 87px;
-    top: 272px;
-}
-
-h3{
-    font-size: 20px;
-    line-height: 27px;
-    color: #1F9440;
+    padding-top: 18px;
+    
 }
 
 img{
-    border: solid red;
+    width: 200px;
+    border: 3px #ff0000 solid;
     border-radius: 20px;
+    margin-bottom: 21px;
+}
+
+h2{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #1f9440;
+    margin-bottom: 56px;
+
+}
+
+h2 a {
+    color: #1f9440;
+    text-decoration: none;
+
 }
