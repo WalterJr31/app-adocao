@@ -25,10 +25,11 @@ p{
     font-size: 20px;
     font-family: sans-serif;
     color: #545454;
-    margin-bottom: 123px;
+    margin-bottom: 80px;
 }
 
 a{
+    width: 270px;
     background-color: #1f9440;
     display: block;
     margin-left: auto;
